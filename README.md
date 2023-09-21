@@ -31,6 +31,10 @@ The python idiom was then used to ensure the functions were only called if this 
 
 Due to the 30 second time limit between readings, a user may hit CTRL-C to cancel the program at anytime. 
 
-![Terminal readings from running python script](./terminal_readings.JPG)
+The picture below will show what an active terminal will look like when this program is running:
 
-![RabbitMQ admin site queue readings](./queue_readings.JPG)
+![terminal_readings](./terminal_readings.jpg)
+
+The picture below will show what the RabbitMQ admin site will look like when this program is running:
+
+![queue_readings](./queue_readings.jpg)
